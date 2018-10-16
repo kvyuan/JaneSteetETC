@@ -3,6 +3,7 @@
 #Created on: Octobor 13, 2018
 #Code organized by: Hao Yuan
 #Code organized on: October 15, 2018
+#Contact: hyuan95@outlook.com
 
 ########################################Jane Street Electronic Trading Challenge########################################
 # encoding: utf-8

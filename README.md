@@ -17,7 +17,7 @@ on Quantopian, 2 year stock and option trading experience
 
 ## Our Strategies ##
 
-**common stock & ADR pairing:** Since common stock is more liquid than its pairing
+**Common stock & ADR pairing:** Since common stock is more liquid than its pairing
 ADR, we use common stock to estimate its ADR's fair value. When ADR is 
 undervalued, we buy ADR, pay a fee to convert to common stock, and sell in 
 strength 
@@ -37,7 +37,7 @@ stocks of the holdings, pay a fee to convert to ETF, and sell in strength.
 
 * Top 4 of the competition
 
-## What We Should Have Done Better? ## 
+## What Should We Have Done Better? ## 
 
 * Set up TCP earlier, our first test began 3 hours after the pool opened 
 
